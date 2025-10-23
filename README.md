@@ -43,7 +43,7 @@ graph TD
 
 1. Clone this repository and navigate to the project directory:
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/andipiee/jobot-cloud-engineer
    cd jobot-cloud-engineer
    ```
 
